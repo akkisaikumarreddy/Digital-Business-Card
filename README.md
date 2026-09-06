@@ -8,7 +8,7 @@ A sleek, two-sided digital business card featuring front branding and back conta
 ## 🚀 Live Demo
 
 Check out the interactive live card:  
-👉 **[View Live Demo](https://akkisaikumarreddy.github.io/digital-business-card/)** 
+👉 **[View Live Demo](https://akkisaikumarreddy.github.io/Digital-Business-Card/)** 
 
 ---
 
