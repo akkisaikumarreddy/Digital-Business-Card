@@ -12,31 +12,11 @@ Check out the interactive live card:
 
 ---
 
-## ✨ Features
-
-- **Two-Sided Layout**: Displays front personal branding card and back contact profile card.
-- **Interactive Contact Links**: Direct mailto and GitHub profile navigation with smooth hover states.
-- **Fully Responsive**: Mobile-friendly constraints ensure proper scaling across viewport sizes.
-- **Font Awesome Integration**: Clean vector icons for email, phone, GitHub, and location data.
-- **Pure HTML/CSS**: Zero dependencies, extra JS packages, or build tools required.
-
----
-
 ## 🛠️ Built With
 
 - **HTML5**: Structural components (`<main>`, `<section>`, `<a href="...">`, etc.)
 - **CSS3**: Custom Flexbox alignment, CSS gradients, absolute positioning, and dynamic font stacks.
 - **Font Awesome 6.5.1**: Scalable icon set for metadata representations.
-
----
-
-## 📂 Project Structure
-
-─ index.html     &emsp; &emsp;     # Markup structure for both front & back card faces
-─ styles.css     &emsp; &emsp;      # Layout positioning, colors, typography & borders
-─ Profile Pic.jpeg    &emsp; &emsp;  # Profile avatar image
-─ README.md     &emsp; &emsp;      # Project documentation
-─ LICENSE     &emsp; &emsp;        # MIT License
 
 ---
 
