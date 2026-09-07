@@ -1,5 +1,5 @@
 # Digital-Business-Card
-A sleek, two-sided digital business card featuring front branding and back contact details built with semantic HTML5, Font Awesome, and CSS3.
+A sleek, two-sided digital business card featuring front branding and back contact details built with semantic HTML, Font Awesome, and CSS.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
